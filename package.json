@@ -13,5 +13,14 @@
     "mocha": "^7.2.0",
     "moment": "^2.26.0",
     "request": "^2.88.2"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.21.2"
+  },
+  "keywords": []
 }
